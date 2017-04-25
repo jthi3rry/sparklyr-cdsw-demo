@@ -1,0 +1,10 @@
+data
+R
+.viminfo
+.wget-hsts
+.local
+.julia
+node_modules
+.pip
+.cache
+.config
