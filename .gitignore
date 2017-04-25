@@ -1,5 +1,6 @@
 data
 R
+.ssh
 .viminfo
 .wget-hsts
 .local
